@@ -1,0 +1,3 @@
+﻿  Server.cpp
+c:\users\yash1861991\documents\visualstudioprojects\serversocket\serversocket\server.cpp(163): warning C4715: 'ServerThread': not all control paths return a value
+  ServerSocket.vcxproj -> C:\Users\Yash1861991\Documents\VisualStudioProjects\ServerSocket\Debug\ServerSocket.exe
